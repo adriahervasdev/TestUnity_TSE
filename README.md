@@ -39,7 +39,7 @@ Intente implementar la actualización de la UI mediante callbacks pero me di cue
 
 Los assets de la escena que se utilizan son LocationPermissionManager que contiene el script de “LocationPermissionManager” y “TextLocationPermission” que es la referencia UI para mostrar el resultado de los permisos.
 
-![ReadmeImages/image.png](image.png)
+![alt text](https://github.com/adriahervasdev/TestUnity_TSE/blob/main/ReadmeImages/image.png "image")
 
 ---
 
@@ -63,7 +63,7 @@ En este caso, los scripts utilizados para esta funcionalidad se encuntran en est
 
 Para utilizar la ventana para gestionar las escenas simplemente hay que acceder a ‘Window/Scene Manager’ y asignarle el SceneManagerScriptableObject.
 
-![ReadmeImages/image1.png](image1.png)
+![alt text](https://github.com/adriahervasdev/TestUnity_TSE/blob/main/ReadmeImages/image1.png "image")
 
 ---
 
@@ -98,6 +98,6 @@ En este caso, los scripts utilizados para esta funcionalidad se encuentran en es
 Para utilizar manejador de cubos solo hay que utilizar el CubeSpawner de la escena que esta dentro de Managers.
  
 
-![ReadmeImages/image2.png](image2.png)
+![alt text](https://github.com/adriahervasdev/TestUnity_TSE/blob/main/ReadmeImages/image2.png "image")
 
-![ReadmeImages/image3.png](image3.png)
+![alt text](https://github.com/adriahervasdev/TestUnity_TSE/blob/main/ReadmeImages/image3.png "image")
